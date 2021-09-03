@@ -20,7 +20,6 @@
                 </form>
         </div>
         <div id="result">
-            {{listUrls}}
         </div>
     </div>
 </template>
